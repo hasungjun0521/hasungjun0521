@@ -1,10 +1,16 @@
 ## Hi there 👋
-I'm Sungjun Ha!
+Hello, I'm Sungjun Ha!
 
-<!--
-**hasungjun0521/hasungjun0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📤 Contact
+[LinkedIn](https://linkedin.com)
+[Instagram](https://instagram.com)
 
-Here are some ideas to get you started:
+
+## 🎓 Education
+- Undergraduate student
+- Major in Artificial Intelligence at Sungkyunkwan University (SKKU)
+
+## Contact
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning  ...
