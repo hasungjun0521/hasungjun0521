@@ -12,7 +12,7 @@
 ## 🎓 Education
 - Undergraduate student
 - B.S. Student in Artificial Intelligence, Sungkyunkwan University
-- Research Intern at <a href="https://sites.google.com/view/pixel-lab-ai/"><img src="https://www.google.com/s2/favicons?domain=sites.google.com/view/pixel-lab-ai&sz=16" width="16" height="16" /> Pixel Lab</a>, Korea University
+- Research Intern at <a href="https://sites.google.com/view/pixel-lab-ai/"><img src="assets/pixel_lab_logo.png" width="16" height="16" align="center" /> Pixel Lab</a>, Korea University
 
 ## 🔍 Research Interest
 - Visual Question Answering
