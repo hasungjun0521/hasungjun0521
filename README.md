@@ -11,7 +11,11 @@
 
 ## 🎓 Education
 - Undergraduate student
-- Major in Artificial Intelligence at Sungkyunkwan University (SKKU)
+- B.S. Student in Artificial Intelligence, Sungkyunkwan University
+- Research Intern at [Pixel Lab](https://sites.google.com/view/pixel-lab-ai/), Korea University
+<a href="https://sites.google.com/view/pixel-lab-ai/">
+  <img src="https://img.shields.io/badge/Pixel%20Lab-Korea%20University-blue?style=for-the-badge"/>
+</a>
 
 ## 🔍 Research Interest
 - Visual Question Answering
