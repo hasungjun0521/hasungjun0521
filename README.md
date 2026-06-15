@@ -3,7 +3,7 @@
 ## 📤 Contact
 <p>
   <a href="mailto:hhssjj0521@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-  <a href="https://github.com/hhssjj0521"><img src="https://github.com/hasungjun0521" height="35"/></a>
+  <a href="https://github.com/hasungjun0521"><img src="https://github.com/hasungjun0521" height="35"/></a>
   <a href="https://linkedin.com/in/sungjun-ha-bb7058337"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
   <a href="https://www.instagram.com/ha.sung.jun/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
 </p>
