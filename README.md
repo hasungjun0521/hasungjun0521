@@ -14,8 +14,8 @@
 - Research Intern at   <a href="https://sites.google.com/view/pixel-lab-ai/"><img src="assets/pixel_lab_icon.png" width="16" height="16" align="center" /> Pixel Lab</a>, Korea University (Prof. Sangmin Lee)
 
 ## 🔍 Research Interest
-- Visual Question Answering
 - Multimodal Large Language Models
+- Visual Question Answering
 - Hallucination in MLLMs
 - Video Understanding
 
