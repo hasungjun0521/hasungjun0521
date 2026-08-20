@@ -1,4 +1,4 @@
-## Hi there I'm Sungjun Ha!👋
+## Hi there! I'm Sungjun Ha!👋
 
 ## 📤 Contact
 <p>
